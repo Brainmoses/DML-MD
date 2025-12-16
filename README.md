@@ -1,5 +1,5 @@
 <h2 align="center" style="https://files.catbox.moe/se5e6e.jpg">🔰 truck of Europe 3 🌈 🔥 🔰</h2>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot 💯💥</h3>
+<h3 align="center" style="https://files.catbox.moe/se5e6e.jpg">Powerful WhatsApp Bot 💯💥</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+👋;MEET+DML-MD+🤖;ADVANCED+WHATSAPP+BOT+EXPERIENCE+⚡;MADE+WITH+PASSION+BY+DML+💻;OFFICIALLY+TANZANIAN+BOT+🎉" alt="Typing Animation">
